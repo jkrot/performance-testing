@@ -1,4 +1,4 @@
-# Perormance Testing
+# Performance Testing
 
 Javascript performance testing has been a major issue due to a lack of features.  Chrome has made this much more useful but lets see what you can do in any browser before diving into chrome specifically.
 
