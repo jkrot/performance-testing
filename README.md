@@ -35,3 +35,14 @@ Node Only
 https://github.com/lloyd/node-memwatch
 https://github.com/bnoordhuis/node-heapdump
 
+### Angular Specific Issues
+
+To many watchers or overuse of ng-show/ng-hide
+
+https://www.airpair.com/angularjs/posts/angularjs-performance-large-applications
+
+Angular Specific Tools
+
+https://www.vividcortex.com/blog/common-ui-performance-problems-in-angular-apps
+
+
