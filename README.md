@@ -1,3 +1,7 @@
+# That Conference August 6-8 2018
+https://github.com/ThatConference/that-branding/blob/master/SpeakerDeckTemplates/BackgroundsThat-Conference-2018.png
+
+
 # Performance Testing
 
 Javascript performance testing has been a major issue due to a lack of features.  Chrome has made this much more useful but lets see what you can do in any browser before diving into chrome specifically.
@@ -26,6 +30,9 @@ https://developer.microsoft.com/en-us/microsoft-edge/tools/
 Source code for this example was from code labs found at 
 https://codelabs.developers.google.com/codelabs/web-perf/index.html
 
+New Chrome Dev tools helps troubleshoot scrolling issues
+https://developers.google.com/web/updates/2017/07/devtools-release-notes
+
 ### Long Term Memory Analysis
 
 Windows Only
@@ -45,4 +52,5 @@ Angular Specific Tools
 
 https://www.vividcortex.com/blog/common-ui-performance-problems-in-angular-apps
 
-
+#  That Conference Sponsors 
+https://github.com/ThatConference/that-branding/blob/master/SpeakerDeckTemplates/BackgroundsThat-Conference-Sponsors-Slide.png
