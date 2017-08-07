@@ -26,6 +26,9 @@ https://developer.microsoft.com/en-us/microsoft-edge/tools/
 Source code for this example was from code labs found at 
 https://codelabs.developers.google.com/codelabs/web-perf/index.html
 
+New Chrome Dev tools helps troubleshoot scrolling issues
+https://developers.google.com/web/updates/2017/07/devtools-release-notes
+
 ### Long Term Memory Analysis
 
 Windows Only
