@@ -52,8 +52,7 @@ Angular Specific Tools
 
 https://www.vividcortex.com/blog/common-ui-performance-problems-in-angular-apps
 
-<<<<<<< HEAD
-=======
+
 Performance Tooling in AngularJS
 $compileProvider.debugInfoEnabled(false);  Is the biggest consideration 
 
@@ -61,6 +60,5 @@ Performance Tooling in Angular2/4
 
 https://angular.io/guide/aot-compiler
 
->>>>>>> 55b0ec0bf81de6affbda7caa6595e2131d8ec7f7
 #  That Conference Sponsors 
 https://github.com/ThatConference/that-branding/blob/master/SpeakerDeckTemplates/BackgroundsThat-Conference-Sponsors-Slide.png
